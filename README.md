@@ -20,9 +20,13 @@ The local storage is used here to store the previous search city and display the
 Simply type the name of the city in the field provided and click the search button.
 You can also select from the list of cities previously searched to see an up-to-date forecast.
 
+# Installation
+
+Please visit the deployed project at: https://priteshpatel823.github.io/Weather-Data-Dashboard/.
+
 # Screenshots
 
-file:///Users/pritesh.patel/Desktop/Screen%20Shot%202020-11-21%20at%204.22.47%20PM.png
+<img width="1680" alt="Screen Shot 2020-11-21 at 4 22 47 PM" src="https://user-images.githubusercontent.com/72167504/99889030-20bc1880-2c17-11eb-964e-df9359fab5bf.png">
 
 # Technologies Used
 jQuery - Used for event listeners of parent and childeren elements as well as to store and recall those varible in local storage to be displayed dynamically in HTML on the page.
