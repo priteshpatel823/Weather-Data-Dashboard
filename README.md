@@ -22,7 +22,7 @@ You can also select from the list of cities previously searched to see an up-to-
 
 # Installation
 
-Please visit the deployed project at: https://priteshpatel823.github.io/Weather-Data-Dashboard/.
+Please visit the deployed project at: https://priteshpatel823.github.io/Weather_Data_Dashboard/
 
 # Screenshots
 
